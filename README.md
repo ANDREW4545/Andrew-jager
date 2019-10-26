@@ -1,4 +1,3 @@
-# Andrew-jager
+# Andrew45
 Tic Tac Toe game using C language
-Hi guys , I'm andrew here 
-so in this project you can play nostalgic tic tac toe game on your pc without using pen and pencil , isn't that beautiful 
+so In this project you can play nostalgic tic tac toe game on your pc.
